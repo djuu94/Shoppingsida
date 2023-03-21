@@ -1,1 +1,3 @@
-# Shoppingsida
+Chas uppgift
+Shoppingsida
+Caspar Nygren
